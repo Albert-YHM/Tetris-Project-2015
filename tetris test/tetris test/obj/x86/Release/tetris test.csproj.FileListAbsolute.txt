@@ -1,0 +1,8 @@
+E:\tetris test\tetris test\bin\Release\tetris test.exe
+E:\tetris test\tetris test\bin\Release\tetris test.pdb
+E:\tetris test\tetris test\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\tetris test\tetris test\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\tetris test\tetris test\obj\x86\Release\tetris test.csproj.GenerateResource.Cache
+E:\tetris test\tetris test\obj\x86\Release\tetris test.exe
+E:\tetris test\tetris test\obj\x86\Release\tetris test.pdb
+E:\tetris test\tetris test\obj\x86\Release\tetris test.csprojResolveAssemblyReference.cache

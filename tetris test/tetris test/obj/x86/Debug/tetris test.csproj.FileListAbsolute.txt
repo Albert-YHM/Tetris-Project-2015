@@ -1,0 +1,24 @@
+C:\Users\maoal_000\Desktop\tetris test\tetris test\bin\Debug\tetris test.exe
+C:\Users\maoal_000\Desktop\tetris test\tetris test\bin\Debug\tetris test.pdb
+C:\Users\maoal_000\Desktop\tetris test\tetris test\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\maoal_000\Desktop\tetris test\tetris test\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\maoal_000\Desktop\tetris test\tetris test\obj\x86\Debug\tetris test.csproj.GenerateResource.Cache
+C:\Users\maoal_000\Desktop\tetris test\tetris test\obj\x86\Debug\tetris test.exe
+C:\Users\maoal_000\Desktop\tetris test\tetris test\obj\x86\Debug\tetris test.pdb
+C:\Users\maoal_000\Desktop\tetris test\tetris test\obj\x86\Debug\tetris test.csprojResolveAssemblyReference.cache
+E:\tetris test\tetris test\obj\x86\Debug\tetris test.exe
+E:\tetris test\tetris test\obj\x86\Debug\tetris test.pdb
+E:\tetris test\tetris test\obj\x86\Debug\tetris test.csprojResolveAssemblyReference.cache
+E:\tetris test\tetris test\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\tetris test\tetris test\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\tetris test\tetris test\obj\x86\Debug\tetris test.csproj.GenerateResource.Cache
+E:\tetris test\tetris test\bin\Debug\tetris test.exe
+E:\tetris test\tetris test\bin\Debug\tetris test.pdb
+C:\Users\Albert\Desktop\tetris test\tetris test\obj\x86\Debug\tetris test.exe
+C:\Users\Albert\Desktop\tetris test\tetris test\obj\x86\Debug\tetris test.pdb
+C:\Users\Albert\Desktop\tetris test\tetris test\bin\Debug\tetris test.exe
+C:\Users\Albert\Desktop\tetris test\tetris test\bin\Debug\tetris test.pdb
+C:\Users\Albert\Desktop\tetris test\tetris test\obj\x86\Debug\tetris test.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Desktop\tetris test\tetris test\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Albert\Desktop\tetris test\tetris test\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Albert\Desktop\tetris test\tetris test\obj\x86\Debug\tetris test.csproj.GenerateResource.Cache
