@@ -5,4 +5,4 @@
 - PS. The volume up and down buttons were a joke, so the volume increases regardless of what is pressed
 
 - To try it out download the .exe file which can be found in:
-  tetris test => tetris test => bin => release => "tetris test.exe"
+  tetris test => tetris test => bin => Debug => "tetris test.exe"
