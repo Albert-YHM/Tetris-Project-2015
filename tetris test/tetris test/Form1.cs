@@ -447,23 +447,7 @@ namespace WindowsFormsApplication1
                         if (BoardArray[x + i, y + j] == 1)
                             return;
 
-                //the rotate array code was taken and modified from http://stackoverflow.com/questions/42519/how-do-you-rotate-a-two-dimensional-array
-                //↓↓↓↓↓This is the original code↓↓↓↓↓
-                //int a[4][4];
-                //int n=4;
-                //int tmp;
-                //   for (int i=0; i<n/2; i++){
-                //for (int j=i; j<n-i-1; j++){
-                //tmp=a[i][j];
-                //a[i][j]=a[j][n-i-1];
-                //a[j][n-i-1]=a[n-i-1][n-j-1];
-                //a[n-i-1][n-j-1]=a[n-j-1][i];
-                //a[n-j-1][i]=tmp;
-                //    }
-                //}
-                //↑↑↑↑↑This is the original code↑↑↑↑
-
-                //↓↓↓↓modified code is below↓↓↓↓↓            
+                //rotates blocks          
                 for (i = 0; i < n / 2; i++)
                     for (j = i; j < n - i - 1; j++)
                     {
